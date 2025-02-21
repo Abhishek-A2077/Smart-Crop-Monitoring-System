@@ -27,8 +27,8 @@ This project combines IoT sensors and machine learning to optimize agriculture. 
 ## Setup and Installation
 
 1. Clone the repository
-2. Set up a Conda environment (make sure you have Anaconda or Miniconda installed):
-`conda create -n crop_monitoring python=3.8`
+2. Set up a Conda environment (make sure you have Anaconda or Miniconda installed):  
+`conda create -n crop_monitoring python=3.8`  
 `conda activate crop_monitoring`
 3. Install required Python packages: `pip install -r requirements.txt`
 4. Set up ThingsBoard locally or use ThingsBoard Cloud
