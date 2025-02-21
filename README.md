@@ -27,10 +27,14 @@ This project combines IoT sensors and machine learning to optimize agriculture. 
 ## Setup and Installation
 
 1. Clone the repository
-2. Install required Python packages: `pip install -r requirements.txt`
-3. Set up ThingsBoard locally or use ThingsBoard Cloud
-4. Configure MQTT credentials in the Python script
-5. Run the Python script to simulate sensor data: `python smart_crop_monitoring.py`
+2. Set up a Conda environment (make sure you have Anaconda or Miniconda installed):
+`conda create -n crop_monitoring python=3.8
+conda activate crop_monitoring`
+3. Install required Python packages: `pip install -r requirements.txt`
+4. Set up ThingsBoard locally or use ThingsBoard Cloud
+5. Configure MQTT credentials in the Python script
+6. Run the Python script to simulate sensor data: `python smart_crop_monitoring.py`
+   
 
 ## Usage
 
