@@ -13,7 +13,7 @@ This project combines IoT sensors and machine learning to optimize agriculture. 
 
 ## Dashboard Preview
 
-![ThingsBoard Dashboard](Images/Thingsboard_Smart_Crop.png)
+![ThingsBoard Dashboard](images/Thingsboard_Smart_Crop.png)
 
 ## Technologies Used
 
