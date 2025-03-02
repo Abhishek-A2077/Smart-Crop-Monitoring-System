@@ -158,4 +158,4 @@ while True:
     
     log_to_csv(payload)
     
-    time.sleep(2)
+    time.sleep(3)
